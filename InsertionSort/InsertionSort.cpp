@@ -38,4 +38,9 @@ void insertionsort()
 {
 	int temp;	// Membuat variabel data temporer atau penyimpan sementara
 	int j;		// Membuat variabel j sebagai penanda
+
+	for (int i = i; i < n; i++)	// 1. Looping dengan i dimulai dari 1 hingga n-1
+	{
+
+	}
 }
