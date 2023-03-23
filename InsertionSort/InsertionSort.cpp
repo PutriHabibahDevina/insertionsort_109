@@ -52,5 +52,8 @@ void insertionsort()
 		}
 
 		arr[j + 1] = temp;	// 5. Simpan nilai temp kedalam arr[j + 1]
+
+		cout << endl;
+		cout << "\nPass " << i << endl;	// Output ke layar
 	}
 }
