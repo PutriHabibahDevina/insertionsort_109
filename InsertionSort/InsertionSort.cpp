@@ -51,5 +51,6 @@ void insertionsort()
 			j--;					// b. Decrement nilai j by 1
 		}
 
+		arr[j + 1] = temp;	// 5. Simpan nilai temp kedalam arr[j + 1]
 	}
 }
